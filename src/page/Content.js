@@ -34,9 +34,8 @@ export default class Content extends Component {
 
     return (
         <div>
-            <h1 className = "text-position margin-topic"> Covid Statistic case in Thailand </h1>
+            
             <h2 className = "text-body margin-date"> อัตเดทล่าสุด : {data.UpdateDate} </h2>
-
             <div class="row">
                 <div class="col-md-2"></div>
                     <div class="col-md-8">

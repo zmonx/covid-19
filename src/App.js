@@ -6,7 +6,7 @@ import Header from './page/Header';
 function App() {
   return (
     <div>
-        {/* <Header /> */}
+        <Header />
         <Content />
 
     </div>
